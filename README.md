@@ -6,6 +6,9 @@
 
 您需要 OpenAI 的 API 密钥。
 
+![image](https://github.com/fog-zs/code-converter/assets/38463346/3cacc20a-582f-4794-b6b3-5c443b99b939)
+
+
 ## 如何使用
 
 要使用此代码转换器，您需要按照以下步骤进行设置和操作：
